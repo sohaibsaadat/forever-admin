@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import 'react-toastify/dist/ReactToastify.css';
+
+.active{
+background-color: #ffebf5;
+border-color: #C586c5;
+}
+select,input,textarea{
+    border: 1px solid #c2c2c2;
+    outline-color:#C586A5 ;
+    border-radius: 4px;
+}
