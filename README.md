@@ -1,4 +1,3 @@
-Got it Sohaib! Here’s a **complete all-in-one `README.md` with code examples** included so you can paste it directly to GitHub. It contains **setup, backend, frontend, and sample code snippets** in one file.
 
 ```markdown
 # Forever E-commerce Admin Panel
